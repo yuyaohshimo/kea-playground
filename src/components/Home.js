@@ -1,5 +1,7 @@
 import React from "react";
 
+import Counter from './Counter'
+
 // Home page component
 export default class Home extends React.Component {
   // render
@@ -7,6 +9,7 @@ export default class Home extends React.Component {
     return (
       <div className="page-home">
         <h4>Hello world!</h4>
+        <Counter />
       </div>
     );
   }

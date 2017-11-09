@@ -2385,6 +2385,12 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
+kea-saga@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/kea-saga/-/kea-saga-0.3.2.tgz#402a7e304a63e88f28aedd2b59a1654206add1f0"
+  dependencies:
+    babel-runtime "^6.26.0"
+
 kea@^0.27.3:
   version "0.27.3"
   resolved "https://registry.yarnpkg.com/kea/-/kea-0.27.3.tgz#ab7828f1051a10a2257831707f689ff21847aa13"

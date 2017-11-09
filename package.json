@@ -36,6 +36,7 @@
   "license": "MIT",
   "dependencies": {
     "kea": "^0.27.3",
+    "kea-saga": "^0.3.2",
     "prop-types": "^15.6.0",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
